@@ -11,6 +11,7 @@ public class Parametros {
 		int Capacidad = scan.nextInt();
 		String Nopoliza = scan.nextLine();
 		int tarifa = scan.nextInt();
-
+		// gfdgfd
+		String f = "hsdhsad";
 	}
 }
